@@ -1,0 +1,1 @@
+ssh -i D:\\projects\\key\\product\\wineryland_18.136.157.218.pem ubuntu@18.136.157.218 "cd /var/www/html/exchange.winery.land/ && sudo mv ~/exchange.winery.land.zip /var/www/html/exchange.winery.land/ && sudo unzip -o exchange.winery.land.zip && sudo rm -rf /var/www/html/exchange.winery.land/exchange.winery.land.zip"
